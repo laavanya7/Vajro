@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vajro</string>
+    <string name="error_internet">Not connected to internet</string>
+    <string name="error_connection">Poor or no internet connection</string>
+    <string name="error_server">Poor or no internet connection</string>
+    <string name="error_empty"> $s cannot be empty</string>
+    <string name="error_invalid">Please enter valid %1$s</string>
+    <string name="error_failure">Oops! something went wrong!</string>
+    <string name="error_500">Unable to communicate with the server</string>
+    <string name="rs">\u20B9</string>
+
+</resources>
